@@ -13,20 +13,53 @@
 
 ## Indice
 
-* Mejoras respecto al voto convencional
+* Características de un sistema de voto
+* Mejoras respecto al sistema convencional
 * Precauciones, consideraciones y peligros
-* Sistemas de voto electrónico/telemático actuales
+* Situación actual
 * Posibles mejoras
 * Conclusión
 * Bibliografía
 
 ---
 
-#### 1. Mejoras respecto al voto convencional
+#### 1. Características de un sistema de voto
+
+ - __Precisión__: Establecer la intención de cada votante y representarlo en un resultado final. No siendo posible la alteracion de los votos por una entidad ajena.
+ 
+ - __Anonimato__: Imposible identificar al individuo votante durante el proceso. 
+ - __Escalabilidad__: Capaz de manejar cargas de trabajo muy grandes.  
+ (Ej: 372 millones en India, 115 millones en Brasil)
+ - __Velocidad__: Presentar un resultado final con presteza (pocas).
 
 ---
 
-#### Bibliografía
+#### 2. Mejoras respecto al sistema convencional
+
+- En ciertos sistemas, mas conveniente para los votantes ya que no hay necesidad de traslado.  
+- Mas eficientes y menos recursos (tanto humanos como materiales)
+- Tasa de error menor frente a sistemas convencionales, el error humano supera el error de un sistema electronico.
+- Mayor velocidad en el recuento.
+
+---
+
+#### 3. Precauciones, consideraciones y peligros
+
+---
+
+#### 4. Situación actual
+
+---
+
+#### 5. Posibles mejoras
+
+---
+
+#### 6. Conclusión
+
+---
+
+#### 7. Bibliografía
 
 - [Bruce Schneier: The Problem with Electronic Voting Machines](https://www.schneier.com/blog/archives/2004/11/the_problem_wit.html)
 
