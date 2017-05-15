@@ -75,15 +75,43 @@ __Direct Record Electronic (DRE)__: Sistema mas extendido, una maquina fisica co
 
 ---
 
+#### Ejemplo: Sequoia AVC Edge
+
+__Proceso de voto__:
+1. Tarjeta electronica.
+2. Seleccion de lenguaje y opciones.
+3. Reconocimiento y almacenamiento del voto.
+4. Reinicio de la tarjeta para asegurar solo un voto por votante.
+5. Opcional: Se imprime un comprobante de la operacion.
+
+---
+
+#### Ejemplo: Sequoia AVC Edge
+
+__Vulnerabilidades:__
+
+- Criptografia facil de evadir
+- Algoritmos de cifrado mal implementados
+- Uso de algoritmos debiles con vulnerabilidades conocidas
+- Todas las llaves de cifrado hard-codeadas en el sistema, identicas en todos los sistemas.  
+  Lo que implica que alguien con acceso temporal a una maquina puede comprometer todos los sistemas de voto del pais.
+
+
+---
+
 #### 5. Posibles mejoras
 
 ---
 
-#### 6. Conclusión
+#### 6. Futuro: Blockchain al rescate
 
 ---
 
-#### 7. Bibliografía
+#### 7. Conclusión
+
+---
+
+#### 8. Bibliografía
 
 - [Bruce Schneier: The Problem with Electronic Voting Machines](https://www.schneier.com/blog/archives/2004/11/the_problem_wit.html)
 
@@ -99,7 +127,7 @@ __Direct Record Electronic (DRE)__: Sistema mas extendido, una maquina fisica co
 
 ---
 
-#### 7. Bibliografía
+#### 8. Bibliografía
 
 - [Blockchain Technology in Online Voting
 ](https://followmyvote.com/online-voting-technology/blockchain-technology/)
@@ -121,7 +149,7 @@ __Direct Record Electronic (DRE)__: Sistema mas extendido, una maquina fisica co
 
 --- 
 
-#### 7. Bibliografía
+#### 8. Bibliografía
 
 - [Block The Vote: Could Blockchain Technology Cybersecure Elections?](https://www.forbes.com/sites/realspin/2016/08/30/block-the-vote-could-blockchain-technology-cybersecure-elections/#3bcff0b32ab3)
 
