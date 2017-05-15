@@ -18,7 +18,7 @@
 * Precauciones, consideraciones y peligros
 * Situación actual
 * Posibles mejoras
-* Futuro: Blockchain al rescate
+* Futuro: Blockchain al rescate (?)
 * Conclusión
 * Bibliografía
 
@@ -108,7 +108,17 @@ __Vulnerabilidades:__
 
 ---
 
-#### 6. Futuro: Blockchain al rescate
+#### 6. Futuro: Blockchain al rescate (?)
+
+__PRO__:
+
+- Sistema descentralizado
+- Dificil modificacion de los datos introducidos
+
+__CON__:
+
+- Votos almacenados permanentemente en la blockchain, de ser posible identificar a los votantes estos perderian el valor fundamental del voto anonimo/privado y los podria poner en grave peligro
+- El resto de aspectos del sistema sigue siendo igual de vulnerable
 
 ---
 
