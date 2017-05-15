@@ -18,6 +18,7 @@
 * Precauciones, consideraciones y peligros
 * Situación actual
 * Posibles mejoras
+* Futuro: Blockchain al rescate
 * Conclusión
 * Bibliografía
 
@@ -38,16 +39,39 @@
 
 - En ciertos sistemas, mas conveniente para los votantes ya que no hay necesidad de traslado.  
 - Mas eficientes y menos recursos (tanto humanos como materiales)
+- Ofrecen enormes ventajas frente al uso de distintos idiomas o votantes con discapacidad.
 - Tasa de error menor frente a sistemas convencionales, el error humano supera el error de un sistema electronico.
 - Mayor velocidad en el recuento.
+- Con un diseño adecuado ofrece posibilidades de un análisis forense fiable para validar los resultados.
 
 ---
 
 #### 3. Precauciones, consideraciones y peligros
 
+- Los errores no son uniformes, pueden favorecer/perjudicar a una opcion particular.
+- Pueden alterar las tasas de voto debido a la barrera de la tecnologica. 
+- Un error de software al ser explotado puede suponer la alteracion de todo el sistema al completo.
+- Extremadamente dificiles de testear en un ambiente real.
+- Amenazas: Individuos, crimen organizado u agencias de inteligencia gubernamentales.
+
 ---
 
 #### 4. Situación actual
+
+__Direct Record Electronic (DRE)__: Sistema mas extendido, una maquina fisica con interfaz de botones o tactil que ofrece las distintas opciones de voto.
+
+![dre1](images/dre1.jpg) 
+
+---
+
+#### DRE
+ 
+- Informacion almacenada en una memoria extraible, transportada a un lugar seguro para el recuento
+- Verificacion del voto con un impreso en papel, almacenado para casos de segundos recuentos y como medida de seguridad
+- La mayoria ofrecen un feedback inmediato para verificar el voto correcto
+- Generalmente software privativo
+- La interfaz tactil da lugar a errores en el uso
+- Suponen una inversion considerable, su mantenimiento y actualizacion no siempre es el optimo
 
 ---
 
@@ -67,11 +91,39 @@
 
 - [Bruce Schneier: Why is it so hard to run an honest election?](https://www.schneier.com/blog/archives/2004/10/getting_out_the.html)
 
+- [Ars Technica: Meet the e-voting machine so easy to hack, it will take your breath away](https://arstechnica.com/tech-policy/2015/04/meet-the-e-voting-machine-so-easy-to-hack-it-will-take-your-breath-away/)
+
 - [Computerphile: Why Electronic Voting is a BAD Idea](https://www.youtube.com/watch?v=w3_0x6oaDmI)
+
+- [E-Voting Machine: Sequoia AVC Edge](https://www.verifiedvoting.org/resources/voting-equipment/sequoia/avc-edge/)
+
+---
+
+#### 7. Bibliografía
+
+- [Blockchain Technology in Online Voting
+](https://followmyvote.com/online-voting-technology/blockchain-technology/)
+
+- [Will Blockchain-Based Election Systems Make E-Voting Possible?](http://www.govtech.com/security/Will-Blockchain-Based-Election-Systems-Make-E-Voting-Possible.html)
+
 - [Elon Musk: Mars government](https://www.recode.net/2016/6/3/11852148/elon-musk-mars-government-direct-democracy)
+
+- [Patent: Electric voting-machine (1897)](https://www.google.com/patents/US616174)
 
 - [Wiki: Electronic voting](https://en.wikipedia.org/wiki/Electronic_voting)
 
 - [Wiki: Certification of voting machines](https://en.wikipedia.org/wiki/Certification_of_voting_machines)
 
 - [Wiki: E-Democracy](https://en.wikipedia.org/wiki/E-democracy)
+
+- [Wiki: DRE voting machine](https://en.wikipedia.org/wiki/DRE_voting_machine)
+
+
+--- 
+
+#### 7. Bibliografía
+
+- [Block The Vote: Could Blockchain Technology Cybersecure Elections?](https://www.forbes.com/sites/realspin/2016/08/30/block-the-vote-could-blockchain-technology-cybersecure-elections/#3bcff0b32ab3)
+
+- [Can the blockchain make electronic voting more secure?
+](https://www.quora.com/Can-the-blockchain-make-electronic-voting-more-secure)
