@@ -124,6 +124,12 @@ __CON__:
 
 #### 7. Conclusión
 
+Las mejoras respecto a los sistemas convencionales son indiscutibles, pero es de importancia critica ser impecables en el diseño y mantenimiento de los mismos para que esten a la altura de la importancia de su tarea.    
+
+Establecer estandares facilitara el camino a la adopcion unanime de unos sistemas robustos y fiables.
+
+La auditoria publica tanto del software como el hardware, la existencia de metodos de analisis forenses posteriores y la existencia de un suporte fisico con el que verificar los resultados son pilares fundamentales.  
+
 ---
 
 #### 8. Bibliografía
