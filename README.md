@@ -101,6 +101,11 @@ __Vulnerabilidades:__
 
 #### 5. Posibles mejoras
 
+- __Simplicidad__: Diseño sencillo y testeado
+- __Uniformidad__: Sistema estandarizado en todos los puestos de voto
+- __Verificabilidad__: Impresion de un certificado del voto, con validez para recuento y analisis posterior
+- __Transparencia__: Codigo de dominio publico, sujeto al escrutinio publico. Permitiendo una mejora y un analisis continuo del sistema
+
 ---
 
 #### 6. Futuro: Blockchain al rescate
